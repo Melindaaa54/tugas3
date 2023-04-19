@@ -20,8 +20,8 @@ print (list_nilai)
 
 #tampilan nilai 3 terakhir
 list_nilai = [1,2,3,4,5,6,7,8,9,10]
-last_three = list_nilai[-7:]
-print (last_seven)
+last_three = list_nilai[-3:]
+print (last_three)
 
 #tampilan nilai kecuali 1 dan 2
 list_nilai = [1,2,3,4,5,6,7,8,9,10]
@@ -31,5 +31,5 @@ for nilai in list_nilai:
 
 #tampilan nilai 7 terakhir
 list_nilai = [1,2,3,4,5,6,7,8,9,10]
-last_seven = list_nilai[-6:]
-print(last_six)
+last_seven = list_nilai[-7:]
+print(last_seven)
