@@ -1,63 +1,63 @@
 # Membuat kamus berisi biodata mahasiswa dan nilai matakuliah
 mahasiswa = {
-    "Ari": {
-        "nim": "SI19220015",
-        "alamat": "Aik Bukak",
-        "prodi": "Sistem Informasi",
+    "Melinda": {
+        "nim": "TI19220009",
+        "alamat": "batu menek",
+        "prodi": "teknik Informatika",
         "semester": 2,
         "ipk": 3.5,
         "nilai_matakuliah": {
             "Pemrograman Dasar": 80,
             "Kalkulus": 85,
-            "Fisika Dasar": 75
+            "Matematika diskrit": 75
         }
     },
-    "Reza Hardian": {
-        "nim": "SI19220013",
-        "alamat": "Braim",
-        "prodi": "Sistem Informasi",
-        "semester": 3,
+    "Laela": {
+        "nim": "TI19220011",
+        "alamat": "jelantik",
+        "prodi": "teknik Informatika",
+        "semester": 2,
         "ipk": 3.8,
         "nilai_matakuliah": {
-            "Pemrograman Lanjut": 90,
-            "Algoritma dan Struktur Data": 87,
-            "Basis Data": 92
+            "Kalkulus": 90,
+            "Algoritma dan pemograman": 87,
+            "Struktur Data": 92
         }
     },
-    "Hofiz Azizan": {
-        "nim": "SI19220017",
-        "alamat": "Bakan",
-        "prodi": "Sistem Informasi",
+    "nora": {
+        "nim": "TI19220017",
+        "alamat": "ganti",
+        "prodi": "teknik Informatika",
         "semester": 2,
         "ipk": 3.6,
         "nilai_matakuliah": {
-            "Jaringan Komputer": 85,
-            "Sistem Digital": 80,
-            "Manajemen Basis Data": 90
+            "Algoritma dan pemrograman": 85,
+            "Kalkukus": 80,
+            "Struktur Data": 90
         }
     },
-    "Hardian": {
-        "nim": "SI19220021",
-        "alamat": "Pegading",
+    "Juli muslim ihsan": {
+        "nim": "TI19220021",
+        "alamat": "batukliang",
         "prodi": "Teknik Informatika",
-        "semester": 5,
+        "semester": 2,
         "ipk": 3.7,
         "nilai_matakuliah": {
-            "Kimia Fisika": 88,
-            "Rekayasa Proses Kimia": 85,
-            "Termokimia": 92
+            "Matematika diskrit": 88,
+            "Kalkulus ": 85,
+            "Struktur Data": 92
         }
     },
-    "Faruk": {
-        "nim": "TI19220012",
-        "alamat": "Peringga Rata",
+    "Hasan": {
+        "nim": "TI19220023",
+        "alamat": "tenganan",
         "prodi": "Teknik Informatika",
-        "semester": 4,
+        "semester": 2,
         "ipk": 3.9,
         "nilai_matakuliah": {
-            "Jaringan Komputer": 95,
-            "Aljabar Linier": 92,
-            "Konstruksi Beton": 93
+            "Matematika diskrit": 95,
+            "Kalkulus": 92,
+            "Struktur Data": 93
         }
     }
 }
